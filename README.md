@@ -1,11 +1,11 @@
-# 🚀 LeetCode Challenges Repository
+# 🚀 LeetCode or HackerRank Challenges Repository
 
-Welcome to my **LeetCode playground**! 🎮  
+Welcome to my **LeetCode and HackerRank playground**! 🎮  
 Here you'll find all my attempts to conquer the world of algorithms, one bug at a time.
 
 ## 🏆 Mission
 
-I bravely try to solve **one LeetCode challenge every day** (or at least every time I remember 😅) to level up my programming logic and keep my brain from turning into spaghetti code.
+I bravely try to solve **one challenge every day** (or at least every time I remember 😅) to level up my programming logic and keep my brain from turning into spaghetti code.
 
 ## 🤓 Why?
 

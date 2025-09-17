@@ -6,7 +6,7 @@
  * The function accepts STRING s as parameter.
  */
 
-function timeConversion(s : string): string {
+function timeConversion(s) {
     let periodo = s.slice(-2);
     let [hora, minuto, segundo] = s.slice(0, -2).split(":");
 
